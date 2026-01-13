@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christoph Schaffer</h1>
-<h3 align="center">A passionate Dynamics 365 CRM and Power Platform developer from Germany.</h3>
+<h3 align="center">Driving innovation as a Dynamics 365 development team supervisor, leveraging hands-on experience as a former D365 and Power Platform developer from Germany.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkwheel&label=Profile%20views&color=0e75b6&style=flat" alt="darkwheel" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darkwheel" alt="darkwheel" /></a> </p>
 
 - 🌱 I’m currently learning **PCF**
 
