@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Christoph Raidl</h1>
+<h1 align="center">Hi 👋, I'm Christoph Schaffer</h1>
 <h3 align="center">A passionate Dynamics 365 CRM and Power Platform developer from Germany.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkwheel&label=Profile%20views&color=0e75b6&style=flat" alt="darkwheel" /> </p>
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/christoph-raidl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christoph-raidl" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/christoph-schaffer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christoph-raidl" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/10949767" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10949767" height="30" width="40" /></a>
 </p>
 
